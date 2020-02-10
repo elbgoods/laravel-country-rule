@@ -2,7 +2,6 @@
 
 namespace Elbgoods\CountryRule\Tests\Rules;
 
-use Elbgoods\CountryRule\Rules\CountryAlpha2Rule;
 use Elbgoods\CountryRule\Rules\CountryRule;
 use Elbgoods\CountryRule\Tests\TestCase;
 use Illuminate\Support\Facades\Lang;

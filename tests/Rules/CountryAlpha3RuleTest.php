@@ -4,9 +4,6 @@ namespace Elbgoods\CountryRule\Tests\Rules;
 
 use Elbgoods\CountryRule\Rules\CountryAlpha3Rule;
 use Elbgoods\CountryRule\Tests\TestCase;
-use Illuminate\Support\Facades\Lang;
-use Illuminate\Support\Facades\Validator;
-use Illuminate\Validation\ValidationException;
 
 final class CountryAlpha3RuleTest extends TestCase
 {

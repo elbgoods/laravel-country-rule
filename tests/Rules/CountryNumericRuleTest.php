@@ -4,9 +4,6 @@ namespace Elbgoods\CountryRule\Tests\Rules;
 
 use Elbgoods\CountryRule\Rules\CountryNumericRule;
 use Elbgoods\CountryRule\Tests\TestCase;
-use Illuminate\Support\Facades\Lang;
-use Illuminate\Support\Facades\Validator;
-use Illuminate\Validation\ValidationException;
 
 final class CountryNumericRuleTest extends TestCase
 {

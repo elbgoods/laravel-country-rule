@@ -22,7 +22,7 @@ class CountryRule implements Rule
 
     public function __construct(string $format, bool $required = true)
     {
-        if(! in_array($format, self::FORMATS)) {
+        if (! in_array($format, self::FORMATS)) {
             throw new InvalidArgumentException(sprintf('The given format "%s" is not valid [%s]', $format, implode(', ', self::FORMATS)));
         }
 
