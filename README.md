@@ -28,7 +28,7 @@ php artisan vendor:publish --provider="Elbgoods\CountryRule\CountryRuleServicePr
 
 ### General
 
-This package provides a basic `CountryRule` which you can use. All more specif rules only extend this rule with a predefined `format`.
+This package provides a basic `CountryRule` which you can use. All more specific rules only extend this rule with a predefined `format`.
 
 ```php
 use Elbgoods\CountryRule\Rules\CountryRule;
