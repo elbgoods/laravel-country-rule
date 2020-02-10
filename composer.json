@@ -4,7 +4,8 @@
   "keywords": [
     "laravel",
     "validation",
-    "country"
+    "country",
+    "iso3166"
   ],
   "homepage": "https://github.com/elbgoods/laravel-country-rule",
   "license": "MIT",
