@@ -1,6 +1,6 @@
 {
   "name": "elbgoods/laravel-country-rule",
-  "description": "Laravel validation rules for common country formats.",
+  "description": "Laravel validation rules for ISO-3166 country formats.",
   "keywords": [
     "laravel",
     "validation",
