@@ -37,6 +37,12 @@ class CountryRule implements Rule
         return $this;
     }
 
+    /**
+     * @param string $attribute
+     * @param mixed $value
+     *
+     * @return bool
+     */
     public function passes($attribute, $value): bool
     {
         if ($value === null && $this->isNullable()) {

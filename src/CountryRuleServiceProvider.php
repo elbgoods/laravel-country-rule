@@ -8,13 +8,13 @@ use League\ISO3166\ISO3166DataProvider;
 
 class CountryRuleServiceProvider extends ServiceProvider
 {
-    public function register()
+    public function register(): void
     {
         $this->app->bind(ISO3166::class);
         $this->app->alias(ISO3166::class, ISO3166DataProvider::class);
     }
 
-    public function boot()
+    public function boot(): void
     {
         $this->publishes([
             __DIR__.'/../resources/lang' => resource_path('lang/vendor/validationRules'),
