@@ -17,7 +17,7 @@ class CountryRuleServiceProvider extends ServiceProvider
     public function boot(): void
     {
         $this->publishes([
-            __DIR__.'/../resources/lang' => resource_path('lang/vendor/validationRules'),
+            __DIR__.'/../resources/lang' => resource_path('lang/vendor/countryRule'),
         ], 'lang');
 
         $this->loadTranslationsFrom(__DIR__.'/../resources/lang/', 'countryRule');
