@@ -1,8 +1,10 @@
 # Changelog
 
-All notable changes to this package will be documented in this file. The format is based on [Keep a Changelog](http://keepachangelog.com/).
+All notable changes to this package will be documented in this file.
 
-## Unreleased
+## v0.1.1
+
+* fix translations namespace
 
 ## v0.1.0
 
