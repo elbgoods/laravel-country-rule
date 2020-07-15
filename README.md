@@ -8,7 +8,6 @@
 [![StyleCI](https://styleci.io/repos/239544142/shield)](https://styleci.io/repos/239544142)
 [![Total Downloads](https://img.shields.io/packagist/dt/elbgoods/laravel-country-rule.svg?style=flat-square)](https://packagist.org/packages/elbgoods/laravel-country-rule)
 
-
 This package provides multiple validation rules to validate countries according to [ISO-3166](https://wikipedia.org/wiki/ISO_3166).
 
 ## Installation
