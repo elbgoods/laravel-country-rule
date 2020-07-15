@@ -5,6 +5,7 @@
 [![Offset Earth](https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-green?style=for-the-badge&cacheSeconds=600)](https://offset.earth/treeware)
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/elbgoods/laravel-country-rule/run-tests?label=tests&style=flat-square)](https://github.com/elbgoods/laravel-country-rule/actions?query=workflow%3Arun-tests)
+[![StyleCI](https://styleci.io/repos/239544142/shield)](https://styleci.io/repos/239544142)
 [![Total Downloads](https://img.shields.io/packagist/dt/elbgoods/laravel-country-rule.svg?style=flat-square)](https://packagist.org/packages/elbgoods/laravel-country-rule)
 
 

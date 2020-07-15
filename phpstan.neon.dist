@@ -1,7 +1,0 @@
-includes:
-    - ./vendor/nunomaduro/larastan/extension.neon
-    - ./vendor/elbgoods/ci-test-tools/configs/phpstan.neon.dist
-
-parameters:
-    paths:
-        - ./src
